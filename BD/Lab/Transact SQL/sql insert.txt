@@ -1,0 +1,35 @@
+INSERT INTO Editura
+VALUES 
+(1,'RAO','Bucuresti','Romania'),
+(2,'Corint','Bucuresti','Romania'),
+(3,'TREI','Bucuresti','Romania'),
+(4,'ART','Bucuresti','Romania'),
+(5,'Steaua Nordului','Bucuresti','Romania'),
+(6,'Mihail Sadoveanu','Bucuresti','Romania'),
+(7,'Cartier','Chisinau','Moldova'),
+(8,'Policadran','Chisinau','Moldova'),
+(9,'Amaltea','Bucuresti','Romania'),
+(10,'Bestseller','Chisinau','Moldova'),
+(11,'Humanitas','Bucuresti','Romania'),
+(12,'Liviu Rebreanu','Bucuresti','Romania'),
+(13,'Litera','Bucuresti','Romania'),
+(14,'Polirom','Bucuresti','Romania'),
+(15,'Nemira','Bucuresti','Romania'),
+(16,'Arthur','Bucuresti','Romania');
+
+INSERT INTO Autori
+VALUES
+(1,'Rebreanu','Liviu','masculin',1885),
+(2,'Sadoveanu','Mihail','masculin',1880),
+(3,'Dostoevsky','Fiodor','masculin',1821),
+(4,'Hawkins','Paula','femenin',1972),
+(5,'Preda','Marin','masculin',1922),
+(6,'Bulgakov','Mihail','masculin',1891),
+(7,'Dabija','Nicolae','masculin',1948),
+(8,'Blaga','Lucian','masculin',1895),
+(9,'Kiyosaki','Robert','masculin',1947),
+(10,'Clason','George','masculin',1874),
+(11,'Boyne','John','masculin',1971),
+(12,'Druta','Ion','masculin',1928),
+(13,'Sapkowski','Andrzej','masculin',1948),
+(14,'Rowling','Joanne','femenin',1928);
