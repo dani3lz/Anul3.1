@@ -1,6 +1,6 @@
 INSERT INTO Editura
 VALUES 
-(1,'RAO','Bucuresti','Romania'),t
+(1,'RAO','Bucuresti','Romania'),
 (2,'Corint','Bucuresti','Romania'),
 (3,'TREI','Bucuresti','Romania'),
 (4,'ART','Bucuresti','Romania'),
