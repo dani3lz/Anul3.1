@@ -18,7 +18,7 @@ BookID int NOT NULL PRIMARY KEY,
 Titlu varchar(255) NOT NULL,
 AutorID int NOT NULL FOREIGN KEY REFERENCES Autori(AutorID),
 EdituraID int NOT NULL FOREIGN KEY REFERENCES Editura(EdituraID),
-ISBN int NOT NULL,
+ISBN bigint NOT NULL,
 Anul int NOT NULL,
 Pagini int NOT NULL,
 Pretul float
