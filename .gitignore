@@ -1,0 +1,5 @@
+BD/DATA/*
+BD/LOG/*
+BD/TEMPDB/*
+BD/TEMPDBLOG/*
+SOMIPP/SharedFolder/*
